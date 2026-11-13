@@ -159,7 +159,7 @@
   "dependencies": {
     "@nem035/gpt-3-encoder": "^1.1.7",
     "@octokit/core": "^6.1.0",
-    "@raycast/api": "^1.78.1",
+    "@raycast/api": "^1.99.4",
     "@raycast/utils": "^2.3.3",
     "js-base64": "^3.7.2",
     "openai": "^4.77.0",
@@ -257,7 +257,7 @@
     "@raycast/eslint-config": "^1.0.8",
     "@types/node": "20.14.9",
     "@types/node-fetch": "^2.6.11",
-    "@types/react": "18.3.3",
+    "@types/react": "19.0.10",
     "eslint": "^8.57.0",
     "prettier": "^3.3.2",
     "typescript": "^5.4.5"

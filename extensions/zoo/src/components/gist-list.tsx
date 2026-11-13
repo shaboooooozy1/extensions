@@ -1,6 +1,6 @@
 import { ActionPanel, Application, Color, Icon, List } from "@raycast/api";
 import { MutatePromise, useCachedPromise } from "@raycast/utils";
-import { useMemo, useState } from "react";
+import { useMemo, useState, type JSX } from "react";
 import { getGitHubClient } from "../api/oauth";
 import { useFrontmostApp } from "../hooks/useFrontmostApp";
 import { perPage, rememberTag, showDetail } from "../types/preferences";
